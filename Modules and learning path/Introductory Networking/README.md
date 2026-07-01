@@ -378,17 +378,6 @@ WHOIS is used to retrieve domain registration information and ownership records.
 * `dig`
 
 ---
-
-# Completion Status
-
-* ✅ Task 1 — OSI Model
-* ✅ Task 2 — Encapsulation
-* ✅ Task 3 — TCP/IP Model
-* ✅ Task 5 — Ping
-* ✅ Task 6 — Traceroute
-* ✅ Task 7 — WHOIS
-* ✅ Task 8 — DIG
-
 ---
 
 ## Notes
