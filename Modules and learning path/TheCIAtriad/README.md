@@ -121,9 +121,9 @@ THM{CIA_IS_ABOUT_BALANCE}
 
 ### Exercise Screenshot
 
-```
+
 ![Exercise Screenshot](images/flag.png)
-```
+
 
 ---
 
