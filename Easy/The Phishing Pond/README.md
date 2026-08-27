@@ -329,6 +329,8 @@ The combination of an attachment and a request to enable macros was therefore tr
 
 After completing all 10 scenarios, I successfully completed the room and obtained the flag.
 
+![Level 10](images/27.png)
+
 I finished the challenge with **2 lives remaining**. I made mistakes on questions **6 and 7**, but was still able to complete the room successfully.
 
 ```text
